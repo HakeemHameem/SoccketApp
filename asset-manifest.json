@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SoccketApp/static/css/main.5b1ffe7d.css",
+    "main.js": "/SoccketApp/static/js/main.d81c94a6.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/SoccketApp/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/SoccketApp/index.html",
+    "main.5b1ffe7d.css.map": "/SoccketApp/static/css/main.5b1ffe7d.css.map",
+    "main.d81c94a6.js.map": "/SoccketApp/static/js/main.d81c94a6.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/SoccketApp/static/js/787.4a5f9ec1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1ffe7d.css",
+    "static/js/main.d81c94a6.js"
+  ]
+}
